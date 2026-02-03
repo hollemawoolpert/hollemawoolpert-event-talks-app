@@ -1,0 +1,13 @@
+{
+  "name": "event-website",
+  "version": "1.0.0",
+  "description": "A single-page website for a 1-day tech event.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

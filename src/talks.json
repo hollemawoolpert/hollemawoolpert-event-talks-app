@@ -1,0 +1,56 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["John Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the latest trends and predictions for JavaScript frameworks. We'll explore the pros and cons of the most popular frameworks and what to expect in the coming year.",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM"
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Jane Smith"],
+    "category": ["Node.js", "APIs", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build robust and scalable APIs using Node.js and Express. We'll cover best practices for authentication, rate limiting, and error handling.",
+    "startTime": "11:10 AM",
+    "endTime": "12:10 PM"
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Modern Approach to Layout",
+    "speakers": ["Peter Jones", "Mary Johnson"],
+    "category": ["CSS", "Frontend", "Web Design"],
+    "duration": 60,
+    "description": "Master the power of CSS Grid and Flexbox to create complex and responsive layouts with ease. This talk will include live coding examples and practical tips.",
+    "startTime": "12:20 PM",
+    "endTime": "1:20 PM"
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["David Lee"],
+    "category": ["Machine Learning", "Python", "Data Science"],
+    "duration": 60,
+    "description": "A beginner-friendly introduction to the world of machine learning. We'll cover the basic concepts and algorithms, and build a simple predictive model using Python.",
+    "startTime": "2:20 PM",
+    "endTime": "3:20 PM"
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["Susan Chen"],
+    "category": ["Serverless", "Cloud Computing", "Architecture"],
+    "duration": 60,
+    "description": "Discover the benefits of serverless computing and how it can help you build and deploy applications faster and more efficiently. We'll explore the major serverless platforms and their use cases.",
+    "startTime": "3:30 PM",
+    "endTime": "4:30 PM"
+  },
+  {
+    "title": "Cybersecurity in 2026: Threats and Countermeasures",
+    "speakers": ["Michael Brown"],
+    "category": ["Cybersecurity", "Security"],
+    "duration": 60,
+    "description": "An overview of the latest cybersecurity threats and how to protect your applications and infrastructure. We'll discuss common vulnerabilities and best practices for securing your systems.",
+    "startTime": "4:40 PM",
+    "endTime": "5:40 PM"
+  }
+]
